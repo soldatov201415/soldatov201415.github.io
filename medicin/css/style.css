@@ -42,6 +42,9 @@ h1,h2,h3{
 .text{
 	font-style:italic;
 }
+iframe{
+	margin-top: 40px;
+}
 /* Vertical Tabs */
  .vertical-tabs{
     font-size:15px;
