@@ -1,0 +1,26 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;  
+}
+body{
+	background: lightblue;
+}
+
+
+/* <!-- content --> */
+.more{
+	margin-left: 19px;
+}
+
+p{
+	font-family: Brush Script MT, Brush Script Std, cursive;
+}
+.contebt{
+	margin-left: 0px;
+	background: #ffff;
+}
+.video{
+	margin-right: 1000px;
+	padding-right: 3px;
+}
