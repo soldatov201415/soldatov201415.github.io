@@ -1,5 +1,6 @@
 var userName = prompt("Привіт! Як тебе звати?");
 var stranger = "Незнайомець, false або null";
+var strangers = "Незнайомець";
 if (userName == false){
     userName = "";
     userName = null;
@@ -12,6 +13,7 @@ if (userName == false){
             UserNameTwo ="";
             UserNameTwo = null;
             alert("Ми будем називати вас " + stranger);
+            userName = strangers;
         }
        }else{
         alert("Ми будем називати вас " + stranger);
@@ -19,3 +21,4 @@ if (userName == false){
         userName = " Незнайомець";
     }
 }
+
