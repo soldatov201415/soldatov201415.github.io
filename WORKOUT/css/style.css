@@ -1,0 +1,75 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	background: lightblue;
+	font-family: 'Roboto', sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+    text-align: center;
+}
+a:hover{
+    text-decoration: none;
+    color: red;
+}
+.content{
+    background: #fff;
+}
+
+
+/* static */
+
+.static{
+    border-top: solid 3px black;
+    border-bottom: solid 3px black;
+    padding: 15px;
+}
+.Description2{
+    padding: 20px;
+}
+
+/*  dinamics  */
+
+.Dynamics{
+    margin-top: 20px;
+    border-bottom: solid 3px black;
+    border-bottom: black solid 3px;
+}
+iframe{
+    border: double lightblue 15px;
+    margin-bottom: 5px;
+}
+.Description3{
+    padding: 20px;
+}
+      
+/* Psychology */
+
+.Psychology{
+    margin-top: 15px;
+    border-bottom: 3px solid black;
+}
+.Description5{
+    padding: 25px;
+}
+
+/* futer */
+
+.futer{
+    background-color: lightblue;
+}
+.ins{
+    font-size: 50px;
+    
+}
+.ins {
+	color: #FF0000;
+}
+.yout{
+    font-size: 50px;
+}
+.yout{
+    color: red;
+}
