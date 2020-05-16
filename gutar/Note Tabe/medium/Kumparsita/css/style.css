@@ -6,6 +6,10 @@
 body{
 	background: lightblue;
 }
+.row{
+    margin-right: 0px;
+    margin-left: 0px;
+}
 p{
 	font-family: Brush Script MT, Brush Script Std, cursive;
 }
