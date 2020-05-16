@@ -6,6 +6,10 @@
 body{
 	background: lightblue;
 }
+.row{
+    margin-right: 0px;
+    margin-left: 0px;
+}
 h2{
 	font-family: bold,serif;
 }
